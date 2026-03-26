@@ -64,8 +64,8 @@ The goal was to identify common security weaknesses and suggest simple improveme
 ```
 📦 FUTURE_CS_01  
  ┣ 📂 ScreenShots
- ┣ 📄 Report.pdf
- ┗ 📄 README.md
+ ┣ 📄 README.md
+ ┗ 📄 Report.pdf
 ```
 
 ---
